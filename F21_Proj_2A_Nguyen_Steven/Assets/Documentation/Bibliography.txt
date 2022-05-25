@@ -1,0 +1,26 @@
+Project 2A Bibliography by Steven Nguyen:
+
+Background:
+1. The backgrounds in the Play Game, Roll Character, About, and Instructions Scenes were all created by me using MS Paint. 
+
+
+Sources for Assets:
+1. “Free Platform Game Assets: 2d Environments.” Unity Asset Store, Bayat Games, https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838. 
+2. “Warped Space Shooter: 2D Characters.” Unity Asset Store, Ansimuz, https://assetstore.unity.com/packages/2d/characters/warped-space-shooter-181590. 
+3. “2d Speed Snail: 2D Characters.” Unity Asset Store, RAFMANIX, https://assetstore.unity.com/packages/2d/characters/2d-speed-snail-109986. 
+4. “Simple 2d Platformer Assets Pack: 2D Characters.” Unity Asset Store, Goldmetal, https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518. 
+5. “VideoGameMusic.” Mario Kart DS MP3 - Download Mario Kart DS Soundtracks for FREE!, https://downloads.khinsider.com/game-soundtracks/album/mario-kart-ds. 
+6. “Coins SFX: Audio Sound FX.” Unity Asset Store, Little Robot Sound Factory, https://assetstore.unity.com/packages/audio/sound-fx/coins-sfx-39052. 
+
+Sources for Unity + Code Development:
+1. Brackeys. “How to Make a 2D Game in Unity.” YouTube, Brackeys, 8 July 2018, https://www.youtube.com/watch?v=on9nwbZngyw&amp;t=293s&amp;ab_channel=Brackeys. 
+2. Brackeys. “2D Movement in Unity (Tutorial).” YouTube, Brackeys, 15 July 2018, https://www.youtube.com/watch?v=dwcT-Dch0bA&amp;t=151s. 
+3. Brackeys. “2D Animation in Unity (Tutorial).” YouTube, Brackeys, 5 Aug. 2018, https://www.youtube.com/watch?v=hkaysu1Z-N8&amp;t=577s&amp;ab_channel=Brackeys. 
+4. Brackeys. “2D Camera in Unity (Cinemachine Tutorial).” YouTube, Brackeys, 9 Sept. 2018, https://www.youtube.com/watch?v=2jTY11Am0Ig&amp;ab_channel=Brackeys. 
+5. Brackeys. “2D PATHFINDING - Enemy AI in Unity.” YouTube, Brackeys, 2 June 2019, https://www.youtube.com/watch?v=jvtFUfJ6CP8&amp;t=781s&amp;ab_channel=Brackeys. 
+6. Brackeys. “Introduction to Audio in Unity.” YouTube, Brackeys, 31 May 2017, https://www.youtube.com/watch?v=6OT43pvUyfY&amp;t=305s&amp;ab_channel=Brackeys. 
+7. “#11 Make an Air Hockey Game in Unity - Difficulty Selector - Tutorial for Beginners.” YouTube, Reso Coder, 20 Oct. 2017, https://www.youtube.com/watch?v=9-vHthQJceY&amp;ab_channel=ResoCoder. 
+8. A* Pathfinding Project, https://arongranberg.com/astar/. 
+
+Source for Splash Screen:
+1. “Create Custom Logos with Designevo Free Logo Maker.” Designevo.com, https://www.designevo.com/.  

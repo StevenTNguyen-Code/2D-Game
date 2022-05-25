@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2358d0a33414ea243aa4eefd697419cf
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 5fb6c7fddd673924c8231eeb339f822a
+  - enabled: 1
+    path: Assets/Scenes/Scene_Roll_Character.unity
+    guid: d0a786b0ce18ed8459abe9d16cedabe1
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_Easy.unity
+    guid: 3f7cec6ee3be0d543b59cc09ba9eddc7
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_EasyBlue.unity
+    guid: ead45fabcd1cf974eb8433824c04fda0
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_EasyGreen.unity
+    guid: 3890f0ba0f74cbe4c99d051bce9dbcdc
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_EasyRed.unity
+    guid: 0b44bae10e210424cbfa091d96c1be7e
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_Medium.unity
+    guid: e4045732111182b4299fb9cf75623469
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_MediumBlue.unity
+    guid: 90da48b62d601f541829df60fd155da1
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_MediumGreen.unity
+    guid: db395f85d0c09a646a462a3bfecf95bd
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_MediumRed.unity
+    guid: cec93ee80f7b6f5459f564701438b434
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_Hard.unity
+    guid: 87233bde1180f14409f1d0756b6439c9
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_HardBlue.unity
+    guid: 9ef18c9a7ae63d347be00f0316edbab2
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_HardGreen.unity
+    guid: f73877a41e569c9409bbf3a9a0095c8f
+  - enabled: 1
+    path: Assets/Scenes/GamePlay_HardRed.unity
+    guid: 3cca9788017746e4eb1d2ebd51c8f53c
+  - enabled: 1
+    path: Assets/Scenes/CreditScene.unity
+    guid: 9406fc469228e6247a91bb2311558b42
+  - enabled: 1
+    path: Assets/Scenes/AboutScene.unity
+    guid: 2cd0f1862a23d5147a705e59139f107e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
