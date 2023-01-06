@@ -9,3 +9,5 @@ Step 2: Click on the folder named "F21_Proj_2A_Nguyen_Steven"
 Step 3: Click on the folder named "Releases"
 Step 4: Click on the "F21_Proj_2A_Nguyen_Steven.exe" file
 Step 5: Enjoy!
+
+If you would like to checkout the C# Code I have written, please go to F21_Proj_2A_Nguyen_Steven -> Assets -> Scripts
